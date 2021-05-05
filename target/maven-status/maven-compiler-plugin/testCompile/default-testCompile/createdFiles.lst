@@ -1,0 +1,7 @@
+com/gepardec/wdg/validation/AnswerValidatorTest.class
+com/gepardec/wdg/application/validation/Base64ValidatorTest.class
+com/gepardec/wdg/validation/URLValidatorTest.class
+com/gepardec/wdg/application/validation/Base64LengthValidatorTest.class
+com/gepardec/wdg/challenge/ChallengeResourceTest.class
+com/gepardec/wdg/application/validation/Base64LengthValidatorTest$1.class
+com/gepardec/wdg/application/validation/SourceSelectionValidatorTest.class

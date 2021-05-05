@@ -1,0 +1,6 @@
+/home/andreas/git/weckdengeparden/src/test/java/com/gepardec/wdg/challenge/ChallengeResourceTest.java
+/home/andreas/git/weckdengeparden/src/test/java/com/gepardec/wdg/validation/AnswerValidatorTest.java
+/home/andreas/git/weckdengeparden/src/test/java/com/gepardec/wdg/application/validation/SourceSelectionValidatorTest.java
+/home/andreas/git/weckdengeparden/src/test/java/com/gepardec/wdg/application/validation/Base64ValidatorTest.java
+/home/andreas/git/weckdengeparden/src/test/java/com/gepardec/wdg/validation/URLValidatorTest.java
+/home/andreas/git/weckdengeparden/src/test/java/com/gepardec/wdg/application/validation/Base64LengthValidatorTest.java
